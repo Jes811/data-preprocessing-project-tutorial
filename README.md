@@ -41,7 +41,8 @@ This step is vital to ensure that we keep the variables that are strictly necess
 Be sure to conveniently divide the data set into `train` and `test` as we have seen in the lesson.
 
 #### Step 3: Save the processed dataset
-
-After the EDA you can save the data in the `./data/processed` folder. Make sure to add the data folder in the `.gitignore`. The data as well as the models should not be uploaded to git.
+ata/processed` folder. Make sure to add the data folder in the `.gitignore`. The data as well as the models should not be uploaded to git.
 
 > Note: We also incorporated the solution samples on `./solution.ipynb` that we strongly suggest you only use if you are stuck for more than 30 min or if you have already finished and want to compare it with your approach.
+
+After the EDA you can save the data in the `./d
